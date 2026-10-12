@@ -1,0 +1,1 @@
+ALTER TABLE employees DROP COLUMN email, MODIFY COLUMN salary DECIMAL(12,2);

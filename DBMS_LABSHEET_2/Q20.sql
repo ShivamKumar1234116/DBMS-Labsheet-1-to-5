@@ -1,0 +1,3 @@
+-- Q20
+SELECT AVG(total_amount) AS average_order_amount
+FROM orders;
